@@ -10,3 +10,5 @@ This is a compiled list of webdev resources I use.
 ## Colour palettes
 
 - https://vanschneider.com/colors
+
+#
