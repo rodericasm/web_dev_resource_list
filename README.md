@@ -1,4 +1,6 @@
-# Web dev resources.
+# Resources
+
+This is a compiled list of webdev resources I use.
 
 ## repositories
 
