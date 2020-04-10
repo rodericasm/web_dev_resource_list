@@ -2,11 +2,11 @@
 
 This is a compiled list of webdev resources I use.
 
-## repositories
+## Repositories
 
 - https://github.com/cdterry87/Resources
 - https://undesign.learn.uno/
 
-## colour palettes
+## Colour palettes
 
 - https://vanschneider.com/colors
