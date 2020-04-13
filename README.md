@@ -11,4 +11,6 @@ This is a compiled list of webdev resources I use.
 
 - https://vanschneider.com/colors
 
-#
+# Images / Icons
+
+- https://icons8.com/ouch/style/flame
