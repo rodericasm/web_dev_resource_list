@@ -1,6 +1,6 @@
 # Resources
 
-This is a compiled list of webdev resources I use.
+This is a compiled list of webdev resources.
 
 ## Repositories
 
@@ -11,6 +11,11 @@ This is a compiled list of webdev resources I use.
 
 - https://vanschneider.com/colors
 
-# Images / Icons
+## Images / Icons
 
 - https://icons8.com/ouch/style/flame
+
+## Static Site Generators (SSG)
+
+- https://nuxtjs.org/ (full featured)
+- https://vuepress.vuejs.org/ (for docs)
