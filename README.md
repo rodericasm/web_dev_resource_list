@@ -1,6 +1,6 @@
 # Resources
 
-This is a compiled list of webdev resources.
+Compiled of web dev resources.
 
 ## Repositories
 
@@ -19,3 +19,10 @@ This is a compiled list of webdev resources.
 
 - https://nuxtjs.org/ (full featured)
 - https://vuepress.vuejs.org/ (for docs)
+
+## Editors 
+
+- https://code.visualstudio.com/ (windows)
+- https://www.vim.org/ (UNIX)
+- https://c9.io (AWS Cloud IDE)
+
