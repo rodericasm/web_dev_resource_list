@@ -26,3 +26,13 @@ Compiled of web dev resources.
 - https://www.vim.org/ (UNIX)
 - https://c9.io (AWS Cloud IDE)
 
+## Portfolios (inspo)
+
+- https://lav.io/teaching/
+- http://www.stupidhackathon.com/
+- https://www.patrickphilippa.com
+- https://emmitfenn.com
+- https://sarahrothberg.com/
+- https://yotammann.info/
+- http://www.kristenwiig.com/ 
+
