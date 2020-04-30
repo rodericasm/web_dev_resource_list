@@ -2,6 +2,10 @@
 
 Compiled of web dev resources.
 
+## Git workflow HOLY GRAIL
+
+- https://www.atlassian.com/git/tutorials/comparing-workflows
+
 ## Repositories
 
 - https://github.com/cdterry87/Resources
@@ -20,7 +24,7 @@ Compiled of web dev resources.
 - https://nuxtjs.org/ (full featured)
 - https://vuepress.vuejs.org/ (for docs)
 
-## Editors 
+## Editors
 
 - https://code.visualstudio.com/ (windows)
 - https://www.vim.org/ (UNIX)
@@ -34,5 +38,8 @@ Compiled of web dev resources.
 - https://emmitfenn.com
 - https://sarahrothberg.com/
 - https://yotammann.info/
-- http://www.kristenwiig.com/ 
+- http://www.kristenwiig.com/
 
+## Web app (inspo)
+
+- http://christopheviau.com/d3list/
