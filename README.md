@@ -39,6 +39,8 @@ Compiled of web dev resources.
 - https://sarahrothberg.com/
 - https://yotammann.info/
 - http://www.kristenwiig.com/
+- https://www.reimertz.co/
+- https://www.creative-portfolios.com/
 
 ## Web app (inspo)
 
