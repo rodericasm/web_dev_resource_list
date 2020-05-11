@@ -2,7 +2,7 @@
 
 Compiled of web dev resources.
 
-## Git workflow HOLY GRAIL
+## Git workflow
 
 - https://www.atlassian.com/git/tutorials/comparing-workflows
 
