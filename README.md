@@ -45,3 +45,9 @@ Compiled of web dev resources.
 ## Web app (inspo)
 
 - http://christopheviau.com/d3list/
+
+## Design brief generators
+
+- http://briefz.biz/
+- https://designercize.com/
+- https://sharpen.design/
