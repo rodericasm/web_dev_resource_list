@@ -41,6 +41,7 @@ Compiled of web dev resources.
 - http://www.kristenwiig.com/
 - https://www.reimertz.co/
 - https://www.creative-portfolios.com/
+- https://www.abdulsamii.com/
 
 ## Web app (inspo)
 
